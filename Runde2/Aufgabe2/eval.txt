@@ -1,0 +1,28 @@
+{'Feige': 10, 'Ingwer': 6, 'Banane': 3, 'Johannisbeere': 5, 'Apfel': 8, 'Dattel': 9, 'Clementine': 1}
+[([], []), ([2, 4], ['Erdbeere', 'Himbeere']), ([2, 4], ['Erdbeere', 'Himbeere']), ([2, 4], ['Erdbeere', 'Himbeere'])]
+All Intersection checks completed
+
+{'Johannisbeere': 4, 'Erdbeere': 8, 'Apfel': 1, 'Ingwer': 12, 'Grapefruit': 3, 'Kiwi': 6, 'Litschi': 7}
+[([2, 9], ['Dattel', 'Feige']), ([5, 10, 11], ['Banane', 'Clementine', 'Himbeere']), ([2, 5, 9, 10, 11], ['Banane', 'Clementine', 'Dattel', 'Feige', 'Himbeere']), ([2, 9], ['Dattel', 'Feige']), ([5, 10, 11], ['Banane', 'Clementine', 'Himbeere'])]
+All Intersection checks completed
+
+{'Orange': 3, 'Nektarine': 4, 'Johannisbeere': 9, 'Kiwi': 12, 'Clementine': 5, 'Dattel': 13, 'Himbeere': 1, 'Erdbeere': 8}
+[([2, 7, 10, 11], ['Feige', 'Grapefruit', 'Ingwer', 'Litschi']), ([2, 7, 10, 11], ['Feige', 'Grapefruit', 'Ingwer', 'Litschi']), ([6, 14], ['Apfel', 'Banane']), ([2, 11], ['Grapefruit', 'Litschi'])]
+All Intersection checks completed
+
+{'Erdbeere': 16, 'Kiwi': 2, 'Mango': 1, 'Himbeere': 11, 'Nektarine': 7, 'Grapefruit': 8, 'Banane': 17, 'Pflaume': 12, 'Orange': 14, 'Ingwer': 6, 'Quitte': 4, 'Feige': 13, 'Litschi': 3, 'Johannisbeere': 5, 'Apfel': 9, 'Clementine': 15, 'Dattel': 10}
+[([], []), ([], []), ([], []), ([], []), ([], []), ([], [])]
+All Intersection checks completed
+
+{}
+[([2, 3, 6, 7, 9, 13, 14, 15, 16, 17], ['Banane', 'Dattel', 'Johannisbeere', 'Kiwi', 'Litschi', 'Nektarine', 'Orange', 'Quitte', 'Rosine', 'Sauerkirsche']), ([1, 2, 3, 4, 5, 6, 7, 9, 10, 12, 15, 16, 19], ['Apfel', 'Banane', 'Dattel', 'Grapefruit', 'Himbeere', 'Kiwi', 'Litschi', 'Mango', 'Orange', 'Pflaume', 'Quitte', 'Sauerkirsche', 'Tamarinde']), ([2, 5, 7, 10, 11, 13, 15, 16, 20], ['Clementine', 'Himbeere', 'Ingwer', 'Johannisbeere', 'Kiwi', 'Litschi', 'Orange', 'Pflaume', 'Sauerkirsche']), ([3, 5, 7, 8, 9, 11, 12, 13, 15, 17], ['Banane', 'Erdbeere', 'Himbeere', 'Ingwer', 'Johannisbeere', 'Kiwi', 'Litschi', 'Quitte', 'Rosine', 'Tamarinde'])]
+All Intersection checks completed
+
+{'Apfel': 3, 'Nektarine': 2, 'Pflaume': 9, 'Dattel': 5, 'Johannisbeere': 12, 'Weintraube': 21, 'Orange': 20, 'Kiwi': 23, 'Grapefruit': 17, 'Himbeere': 18, 'Banane': 8, 'Litschi': 13, 'Feige': 22, 'Quitte': 4, 'Mango': 1, 'Clementine': 7, 'Tamarinde': 19, 'Erdbeere': 10, 'Ingwer': 14, 'Sauerkirsche': 16, 'Vogelbeere': 6}
+[([11, 15], ['Rosine', 'Ugli']), ([11, 15], ['Rosine', 'Ugli']), ([11, 15], ['Rosine', 'Ugli']), ([], []), ([], []), ([], []), ([], []), ([], [])]
+All Intersection checks completed
+
+{'Erdbeere': 15, 'Kiwi': 1, 'Clementine': 24}
+[([2, 3, 4, 7, 8, 10, 11, 13, 14, 20, 22, 26], ['Apfel', 'Feige', 'Grapefruit', 'Himbeere', 'Ingwer', 'Litschi', 'Nektarine', 'Orange', 'Quitte', 'Sauerkirsche', 'Xenia', 'Yuzu']), ([3, 5, 7, 10, 18, 20, 23, 25, 26], ['Apfel', 'Banane', 'Grapefruit', 'Litschi', 'Nektarine', 'Tamarinde', 'Ugli', 'Xenia', 'Zitrone']), ([3, 8, 9, 10, 14, 20, 21, 26], ['Apfel', 'Grapefruit', 'Litschi', 'Pflaume', 'Sauerkirsche', 'Weintraube', 'Xenia', 'Yuzu']), ([2, 11, 12, 13, 18, 19, 22, 25], ['Banane', 'Feige', 'Himbeere', 'Johannisbeere', 'Orange', 'Quitte', 'Rosine', 'Ugli'])]
+All Intersection checks completed
+

@@ -1,0 +1,57 @@
+[[2, 5, 14], [2, 6, 14], [2, 7, 14], [2, 8, 14], [2, 9, 14], [2, 10, 14], [2, 10, 15], [2, 11, 14], [2, 11, 15], [2, 12, 14], [2, 12, 15]]
+
+
+
+[---Die Ergebnisse für 'eisbuden1.txt'---]
+Anzahl der Positionskombinationen:  1'330
+Kombinationen berechnet
+
+Pos(): 0.0s
+Vergleich: 0.38234615325927734s
+Sortierzeit: 0.0010023117065429688s
+['[2, 8, 14]'] : 6
+
+[---Die Ergebnisse für 'eisbuden2.txt'---]
+Anzahl der Positionskombinationen:  20'825
+Kombinationen berechnet
+
+Pos(): 0.006005287170410156s
+Vergleich: 0.5394899845123291s
+Sortierzeit: 0.006005287170410156s
+['[6, 37, 46]', '[6, 37, 47]', '[6, 37, 48]', '[7, 37, 46]', '[7, 37, 47]', '[7, 37, 48]'] : 43
+
+[---Die Ergebnisse für 'eisbuden3.txt'---]
+Anzahl der Positionskombinationen:  20'825
+Kombinationen berechnet
+
+Pos(): 0.008006572723388672s
+Vergleich: 0.525097131729126s
+Sortierzeit: 0.0050046443939208984s
+['[12, 23, 44]', '[12, 23, 45]', '[12, 24, 44]', '[12, 24, 45]', '[13, 23, 44]', '[13, 23, 45]', '[13, 24, 44]', '[13, 24, 45]'] : 53
+
+[---Die Ergebnisse für 'eisbuden4.txt'---]
+Anzahl der Positionskombinationen:  166'650
+Kombinationen berechnet
+
+Pos(): 0.060563087463378906s
+Vergleich: 1.1589515209197998s
+Sortierzeit: 0.04604315757751465s
+['[28, 67, 91]', '[28, 67, 92]', '[29, 67, 91]', '[29, 67, 92]', '[30, 67, 91]', '[30, 67, 92]', '[31, 67, 91]', '[31, 67, 92]'] : 123
+
+[---Die Ergebnisse für 'eisbuden5.txt'---]
+Anzahl der Positionskombinationen:  2'511'496
+Kombinationen berechnet
+
+Pos(): 1.371347427368164s
+Vergleich: 17.133898735046387s
+Sortierzeit: 0.7480149269104004s
+['[83, 126, 230]', '[83, 126, 231]', '[83, 126, 232]', '[83, 126, 233]', '[83, 126, 234]'] : 404
+
+[---Die Ergebnisse für 'eisbuden6.txt'---]
+Anzahl der Positionskombinationen:  13'908'836
+Kombinationen berechnet
+
+Pos(): 7.514139890670776s
+Vergleich: 128.13427996635437s
+Sortierzeit: 4.532538890838623s
+['[61, 209, 385]', '[61, 209, 386]', '[61, 209, 387]', '[61, 209, 388]'] : 1122

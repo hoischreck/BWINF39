@@ -1,0 +1,177 @@
+[---Die Ergebnisse für 'spielstaerken1.txt'---]
+_______________________________________________
+[Turnierform: Liga]
+Stärkster Spieler: 8 (Spielstärke: 100)
+Turnierergebnisse:
+-->Nummer: 8 | Siege: 93 von 100 (93.0%) [Stärke: 100]
+>Nummer: 7 | Siege: 6 von 100 (6.0%) [Stärke: 60]
+>Nummer: 3 | Siege: 1 von 100 (1.0%) [Stärke: 20]
+(Insgesamt 2800 Spiele gespielt)
+_______________________________________________
+[Turnierform: KO]
+Stärkster Spieler: 8 (Spielstärke: 100)
+Turnierergebnisse:
+-->Nummer: 8 | Siege: 3588 von 10000 (35.88%) [Stärke: 100]
+>Nummer: 7 | Siege: 1557 von 10000 (15.57%) [Stärke: 60]
+>Nummer: 6 | Siege: 1528 von 10000 (15.28%) [Stärke: 50]
+>Nummer: 4 | Siege: 1372 von 10000 (13.72%) [Stärke: 30]
+>Nummer: 5 | Siege: 975 von 10000 (9.75%) [Stärke: 40]
+>Nummer: 3 | Siege: 623 von 10000 (6.23%) [Stärke: 20]
+>Nummer: 2 | Siege: 357 von 10000 (3.57%) [Stärke: 10]
+(Insgesamt 70000 Spiele gespielt)
+_______________________________________________
+[Turnierform: KO]
+Stärkster Spieler: 8 (Spielstärke: 100)
+Turnierergebnisse:
+-->Nummer: 8 | Siege: 5532 von 10000 (55.32%) [Stärke: 100]
+>Nummer: 7 | Siege: 1503 von 10000 (15.03%) [Stärke: 60]
+>Nummer: 6 | Siege: 1280 von 10000 (12.8%) [Stärke: 50]
+>Nummer: 4 | Siege: 941 von 10000 (9.41%) [Stärke: 30]
+>Nummer: 5 | Siege: 516 von 10000 (5.16%) [Stärke: 40]
+>Nummer: 3 | Siege: 188 von 10000 (1.88%) [Stärke: 20]
+>Nummer: 2 | Siege: 40 von 10000 (0.4%) [Stärke: 10]
+(Insgesamt 70000 Spiele gespielt)
+_______________________________________________
+
+[---Die Ergebnisse für 'spielstaerken2.txt'---]
+_______________________________________________
+[Turnierform: Liga]
+Stärkster Spieler: 8 (Spielstärke: 100)
+Turnierergebnisse:
+>Nummer: 5 | Siege: 60 von 100 (60.0%) [Stärke: 80]
+>Nummer: 7 | Siege: 22 von 100 (22.0%) [Stärke: 80]
+-->Nummer: 8 | Siege: 14 von 100 (14.0%) [Stärke: 100]
+>Nummer: 6 | Siege: 4 von 100 (4.0%) [Stärke: 80]
+(Insgesamt 2800 Spiele gespielt)
+_______________________________________________
+[Turnierform: KO]
+Stärkster Spieler: 8 (Spielstärke: 100)
+Turnierergebnisse:
+-->Nummer: 8 | Siege: 2788 von 10000 (27.88%) [Stärke: 100]
+>Nummer: 5 | Siege: 2162 von 10000 (21.62%) [Stärke: 80]
+>Nummer: 6 | Siege: 2003 von 10000 (20.03%) [Stärke: 80]
+>Nummer: 7 | Siege: 1987 von 10000 (19.87%) [Stärke: 80]
+>Nummer: 2 | Siege: 271 von 10000 (2.71%) [Stärke: 10]
+>Nummer: 1 | Siege: 269 von 10000 (2.69%) [Stärke: 10]
+>Nummer: 4 | Siege: 263 von 10000 (2.63%) [Stärke: 10]
+>Nummer: 3 | Siege: 257 von 10000 (2.57%) [Stärke: 10]
+(Insgesamt 70000 Spiele gespielt)
+_______________________________________________
+[Turnierform: KO]
+Stärkster Spieler: 8 (Spielstärke: 100)
+Turnierergebnisse:
+-->Nummer: 8 | Siege: 3612 von 10000 (36.12%) [Stärke: 100]
+>Nummer: 6 | Siege: 2205 von 10000 (22.05%) [Stärke: 80]
+>Nummer: 5 | Siege: 2189 von 10000 (21.89%) [Stärke: 80]
+>Nummer: 7 | Siege: 1911 von 10000 (19.11%) [Stärke: 80]
+>Nummer: 2 | Siege: 22 von 10000 (0.22%) [Stärke: 10]
+>Nummer: 3 | Siege: 22 von 10000 (0.22%) [Stärke: 10]
+>Nummer: 1 | Siege: 21 von 10000 (0.21%) [Stärke: 10]
+>Nummer: 4 | Siege: 18 von 10000 (0.18%) [Stärke: 10]
+(Insgesamt 70000 Spiele gespielt)
+_______________________________________________
+
+[---Die Ergebnisse für 'spielstaerken3.txt'---]
+_______________________________________________
+[Turnierform: Liga]
+Stärkster Spieler: 4 (Spielstärke: 93)
+Turnierergebnisse:
+-->Nummer: 4 | Siege: 100 von 100 (100.0%) [Stärke: 93]
+(Insgesamt 12000 Spiele gespielt)
+_______________________________________________
+[Turnierform: KO]
+Stärkster Spieler: 4 (Spielstärke: 93)
+Turnierergebnisse:
+-->Nummer: 4 | Siege: 1676 von 10000 (16.76%) [Stärke: 93]
+>Nummer: 13 | Siege: 1609 von 10000 (16.09%) [Stärke: 73]
+>Nummer: 8 | Siege: 874 von 10000 (8.74%) [Stärke: 67]
+>Nummer: 3 | Siege: 789 von 10000 (7.89%) [Stärke: 66]
+>Nummer: 12 | Siege: 684 von 10000 (6.84%) [Stärke: 60]
+>Nummer: 10 | Siege: 629 von 10000 (6.29%) [Stärke: 57]
+>Nummer: 11 | Siege: 608 von 10000 (6.08%) [Stärke: 57]
+>Nummer: 7 | Siege: 582 von 10000 (5.82%) [Stärke: 58]
+>Nummer: 5 | Siege: 476 von 10000 (4.76%) [Stärke: 51]
+>Nummer: 6 | Siege: 474 von 10000 (4.74%) [Stärke: 51]
+>Nummer: 9 | Siege: 464 von 10000 (4.64%) [Stärke: 51]
+>Nummer: 16 | Siege: 366 von 10000 (3.66%) [Stärke: 42]
+>Nummer: 15 | Siege: 357 von 10000 (3.57%) [Stärke: 41]
+>Nummer: 2 | Siege: 343 von 10000 (3.43%) [Stärke: 38]
+>Nummer: 1 | Siege: 55 von 10000 (0.55%) [Stärke: 22]
+>Nummer: 14 | Siege: 14 von 10000 (0.14%) [Stärke: 13]
+(Insgesamt 150000 Spiele gespielt)
+_______________________________________________
+[Turnierform: KO]
+Stärkster Spieler: 4 (Spielstärke: 93)
+Turnierergebnisse:
+-->Nummer: 4 | Siege: 2812 von 10000 (28.12%) [Stärke: 93]
+>Nummer: 13 | Siege: 2304 von 10000 (23.04%) [Stärke: 73]
+>Nummer: 8 | Siege: 917 von 10000 (9.17%) [Stärke: 67]
+>Nummer: 3 | Siege: 741 von 10000 (7.41%) [Stärke: 66]
+>Nummer: 12 | Siege: 580 von 10000 (5.8%) [Stärke: 60]
+>Nummer: 10 | Siege: 496 von 10000 (4.96%) [Stärke: 57]
+>Nummer: 7 | Siege: 468 von 10000 (4.68%) [Stärke: 58]
+>Nummer: 11 | Siege: 444 von 10000 (4.44%) [Stärke: 57]
+>Nummer: 5 | Siege: 286 von 10000 (2.86%) [Stärke: 51]
+>Nummer: 6 | Siege: 283 von 10000 (2.83%) [Stärke: 51]
+>Nummer: 9 | Siege: 278 von 10000 (2.78%) [Stärke: 51]
+>Nummer: 16 | Siege: 140 von 10000 (1.4%) [Stärke: 42]
+>Nummer: 2 | Siege: 136 von 10000 (1.36%) [Stärke: 38]
+>Nummer: 15 | Siege: 113 von 10000 (1.13%) [Stärke: 41]
+>Nummer: 1 | Siege: 2 von 10000 (0.02%) [Stärke: 22]
+(Insgesamt 150000 Spiele gespielt)
+_______________________________________________
+
+[---Die Ergebnisse für 'spielstaerken4.txt'---]
+_______________________________________________
+[Turnierform: Liga]
+Stärkster Spieler: 1 (Spielstärke: 100)
+Turnierergebnisse:
+>Nummer: 4 | Siege: 73 von 100 (73.0%) [Stärke: 95]
+-->Nummer: 1 | Siege: 15 von 100 (15.0%) [Stärke: 100]
+>Nummer: 7 | Siege: 8 von 100 (8.0%) [Stärke: 95]
+>Nummer: 15 | Siege: 3 von 100 (3.0%) [Stärke: 95]
+>Nummer: 13 | Siege: 1 von 100 (1.0%) [Stärke: 95]
+(Insgesamt 12000 Spiele gespielt)
+_______________________________________________
+[Turnierform: KO]
+Stärkster Spieler: 1 (Spielstärke: 100)
+Turnierergebnisse:
+-->Nummer: 1 | Siege: 697 von 10000 (6.97%) [Stärke: 100]
+>Nummer: 7 | Siege: 666 von 10000 (6.66%) [Stärke: 95]
+>Nummer: 13 | Siege: 657 von 10000 (6.57%) [Stärke: 95]
+>Nummer: 2 | Siege: 642 von 10000 (6.42%) [Stärke: 95]
+>Nummer: 8 | Siege: 638 von 10000 (6.38%) [Stärke: 95]
+>Nummer: 14 | Siege: 628 von 10000 (6.28%) [Stärke: 95]
+>Nummer: 15 | Siege: 623 von 10000 (6.23%) [Stärke: 95]
+>Nummer: 12 | Siege: 622 von 10000 (6.22%) [Stärke: 95]
+>Nummer: 3 | Siege: 616 von 10000 (6.16%) [Stärke: 95]
+>Nummer: 9 | Siege: 616 von 10000 (6.16%) [Stärke: 95]
+>Nummer: 11 | Siege: 609 von 10000 (6.09%) [Stärke: 95]
+>Nummer: 10 | Siege: 606 von 10000 (6.06%) [Stärke: 95]
+>Nummer: 4 | Siege: 603 von 10000 (6.03%) [Stärke: 95]
+>Nummer: 16 | Siege: 596 von 10000 (5.96%) [Stärke: 95]
+>Nummer: 5 | Siege: 596 von 10000 (5.96%) [Stärke: 95]
+>Nummer: 6 | Siege: 585 von 10000 (5.85%) [Stärke: 95]
+(Insgesamt 150000 Spiele gespielt)
+_______________________________________________
+[Turnierform: KO]
+Stärkster Spieler: 1 (Spielstärke: 100)
+Turnierergebnisse:
+-->Nummer: 1 | Siege: 754 von 10000 (7.54%) [Stärke: 100]
+>Nummer: 12 | Siege: 656 von 10000 (6.56%) [Stärke: 95]
+>Nummer: 2 | Siege: 635 von 10000 (6.35%) [Stärke: 95]
+>Nummer: 7 | Siege: 628 von 10000 (6.28%) [Stärke: 95]
+>Nummer: 10 | Siege: 628 von 10000 (6.28%) [Stärke: 95]
+>Nummer: 11 | Siege: 626 von 10000 (6.26%) [Stärke: 95]
+>Nummer: 4 | Siege: 619 von 10000 (6.19%) [Stärke: 95]
+>Nummer: 5 | Siege: 615 von 10000 (6.15%) [Stärke: 95]
+>Nummer: 13 | Siege: 612 von 10000 (6.12%) [Stärke: 95]
+>Nummer: 6 | Siege: 612 von 10000 (6.12%) [Stärke: 95]
+>Nummer: 9 | Siege: 612 von 10000 (6.12%) [Stärke: 95]
+>Nummer: 15 | Siege: 609 von 10000 (6.09%) [Stärke: 95]
+>Nummer: 8 | Siege: 605 von 10000 (6.05%) [Stärke: 95]
+>Nummer: 3 | Siege: 605 von 10000 (6.05%) [Stärke: 95]
+>Nummer: 16 | Siege: 599 von 10000 (5.99%) [Stärke: 95]
+>Nummer: 14 | Siege: 585 von 10000 (5.85%) [Stärke: 95]
+(Insgesamt 150000 Spiele gespielt)
+_______________________________________________
